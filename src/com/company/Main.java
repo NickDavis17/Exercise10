@@ -3,6 +3,8 @@ package com.company;
 import java.util.ArrayList;
 import java.util.Iterator;
 
+//Nick Davis 3/21/22 Exercise 10
+
 public class Main {
 
     public static void main(String[] args) {
